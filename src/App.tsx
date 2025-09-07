@@ -1,3 +1,4 @@
+import BreadBox from './features/bread-box';
 import BreadSlider from './features/bread-slider/bread-slider';
 
 import Header from './features/common/header';
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Hero />
       <BreadSlider />
+      <BreadBox />
     </div>
   );
 }
