@@ -10,7 +10,7 @@ export default function Hero() {
           </h1>
           <Button
             variant="secondary"
-            className="text-4xl px-8"
+            className="text-3xl px-8 uppercase"
           >
             Shop now
           </Button>
