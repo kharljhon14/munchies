@@ -12,7 +12,7 @@ export default function BreadBox() {
             name="Golden Crus"
             price="99"
             tag="GoldenLoaf"
-            image="bread-product-1.webp"
+            image="/bread/bread-product-5.webp"
           />
           <Button className="text-3xl px-8 uppercase">Shop Now</Button>
         </div>

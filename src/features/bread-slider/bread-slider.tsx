@@ -8,35 +8,35 @@ const breadSliders = [
   {
     id: 1,
     name: 'Golden Crust',
-    image: 'bread-product-1.webp',
+    image: '/bread/bread-product-1.webp',
     price: '90',
     tag: 'GoldenLoaf'
   },
   {
     id: 2,
     name: "Panadero's Pride",
-    image: 'bread-product-2.webp',
+    image: '/bread/bread-product-2.webp',
     price: '120',
     tag: 'MorningLoaf'
   },
   {
     id: 3,
     name: 'Harvest Loaf',
-    image: 'bread-product-3.webp',
+    image: '/bread/bread-product-3.webp',
     price: '100',
     tag: 'SoftBite'
   },
   {
     id: 4,
     name: 'Sunrise Bakes',
-    image: 'bread-product-4.webp',
+    image: '/bread/bread-product-4.webp',
     price: '110',
     tag: 'DailyBreadJoy'
   },
   {
     id: 5,
     name: 'Bite Of Comfort',
-    image: 'bread-product-5.webp',
+    image: '/bread/bread-product-5.webp',
     price: '100',
     tag: 'FreshFromTheOven'
   }
