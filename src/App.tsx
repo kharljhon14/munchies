@@ -3,6 +3,7 @@ import BreadSlider from './features/bread-slider/bread-slider';
 
 import Header from './features/common/header';
 import Hero from './features/common/hero';
+import MessageSlider from './features/message-slider';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <BreadSlider />
       <BreadBox />
+      <MessageSlider />
     </div>
   );
 }
